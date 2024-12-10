@@ -4,3 +4,4 @@ markdown
 fastapi
 pydantic
 requests
+uvicorn
